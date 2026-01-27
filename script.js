@@ -19,7 +19,8 @@ const baseRepos = [
   'HailXD/apple-insert',
   'HailXD/PokeRogue-PathFinder',
   'HailXD/danboo-prompt',
-  'HailXD/ai-noise'
+  'HailXD/ai-noise',
+  'HailXD/ratio-slider'
 ];
 
 const repoToUrl = (repo) => {
