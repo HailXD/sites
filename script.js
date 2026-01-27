@@ -21,7 +21,8 @@ const baseRepos = [
   'HailXD/danboo-prompt',
   'HailXD/ai-noise',
   'HailXD/mari-analyse',
-  'HailXD/ratio-slider'
+  'HailXD/ratio-slider',
+  'HailXD/rkbi'
 ];
 
 const repoToUrl = (repo) => {
