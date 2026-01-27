@@ -20,6 +20,7 @@ const baseRepos = [
   'HailXD/PokeRogue-PathFinder',
   'HailXD/danboo-prompt',
   'HailXD/ai-noise',
+  'HailXD/mari-analyse',
   'HailXD/ratio-slider'
 ];
 
