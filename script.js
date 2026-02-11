@@ -9,7 +9,6 @@ const baseRepos = [
   'HailXD/sk-save',
   'HailXD/sk-chars',
   'HailXD/pr-edit',
-  'HailXD/pixel-painter',
   'HailXD/pixel-bg-remover',
   'HailXD/clearml-convert',
   'HailXD/censor',
