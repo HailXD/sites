@@ -21,7 +21,8 @@ const baseRepos = [
   'HailXD/ai-noise',
   'HailXD/mari-analyse',
   'HailXD/ratio-slider',
-  'HailXD/rkbi'
+  'HailXD/rkbi',
+  'HailXD/ptcg-draw',
 ];
 
 const repoToUrl = (repo) => {
